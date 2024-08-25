@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build directories
+build/
+dist/
+
+# Static files
+public/static/node_modules/
